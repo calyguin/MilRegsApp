@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Military regulations</string>
+
+    <string name="regsList">Уставы ВС РФ</string>
+    <string name="regsTests">Тестовые задания</string>
+    <string name="regsExam">Экзамен</string>
+    <string name="regsMistakes">Работа над ошибками</string>
+
 </resources>
